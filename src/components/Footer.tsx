@@ -239,6 +239,14 @@ export const Footer: React.FC = () => {
             <Link to="/contact" className="hover:text-white transition-colors">
               Support
             </Link>
+            <span>•</span>
+            <Link
+              to="/admin/login"
+              className="text-gray-400 hover:text-[#D6B36A] transition-colors flex items-center gap-1"
+            >
+              <ShieldCheck className="w-3 h-3 text-[#D6B36A]" />
+              <span>Admin Portal</span>
+            </Link>
           </div>
         </div>
       </div>
