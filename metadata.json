@@ -1,0 +1,8 @@
+{
+  "name": "The Kreative Decor - Founded by Kamal Kumar",
+  "description": "Premium event decoration, birthday, anniversary, wedding, and haldi celebrations by The Kreative Decor. Serving Sector 51, Gurgaon & Delhi NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
